@@ -1,0 +1,15 @@
+{
+  "name": "@celonis-test/npm-package-test",
+  "version": "0.0.1",
+  "description": "Just a test package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celonis-test/npm-package-test.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
